@@ -1,0 +1,6 @@
+{
+  "appTitle": "layout_helpers",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
